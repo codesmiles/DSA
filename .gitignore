@@ -1,10 +1,10 @@
 /.dist
-/babel.config.js
-/jest.config.js
 /node_modules
-/output-js
-/package-lock.json
-/package.json
-/src
-/test
-/tsconfig.json
+# /babel.config.js
+# /jest.config.js
+# /output-js
+# /package-lock.json
+# /package.json
+# /src
+# /test
+# /tsconfig.json
